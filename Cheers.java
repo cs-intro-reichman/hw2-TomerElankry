@@ -16,6 +16,7 @@ public class Cheers {
                 i++;
                 
             }
+            System.out.println("What does that spell?");
          for(int j=0;j<numR;j++)
             {
                 System.out.println(cheerS+"!!!");
