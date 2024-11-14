@@ -28,7 +28,7 @@ public class Collatz {
 	         }
 			b1 = false;
 			seed2 = seed2 +j;
-			System.out.print("(" +(i+1)+")");
+			System.out.print(" (" +(i+1)+")");
 			System.out.println();
 			i=0;
 			
