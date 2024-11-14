@@ -18,7 +18,7 @@ public class Cheers {
             }
          for(int j=0;j<numR;j++)
             {
-                System.out.println(cheerS+" !!!");
+                System.out.println(cheerS+"!!!");
             }
         }
 }
